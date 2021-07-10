@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h2>I'm Mayenuddn.</h2> <b>I,m a professional web designer & developer.</b><hr>
+ <h2>I'm Mayenuddin.</h2> <h4>I,m a professional web designer & developer.</h4><hr>
 
 - 🔭 I’m currently working on web design
 - 🌱 I’m currently learning web development
