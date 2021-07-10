@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mayenuddin606/mayenuddin606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ <h2>I'm Mayenuddn.</h2> <b>I,m a professional web designer & developer.</b><hr>
 
 - 🔭 I’m currently working on web design
 - 🌱 I’m currently learning web development
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
