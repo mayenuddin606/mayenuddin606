@@ -2,8 +2,7 @@
 
  <h2>I'm Mayenuddin.</h2> <h4>I,m a professional web designer & developer.</h4><hr>
 
-- 🔭 I’m currently working on web design
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
